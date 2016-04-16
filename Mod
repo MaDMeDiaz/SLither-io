@@ -5,7 +5,7 @@
 // @description  slither.io MOD
 // @author       MaDMeDiaz
 // @match        http://slither.io/*
-// @updateURL    https://raw.githubusercontent.com/MaDMeDiaz/SLither-io/master/Mod
+// @updateURL    https://github.com/MaDMeDiaz/SLither-io/blob/master/Mod
 // @run-at       document-body
 // @grant        none
 // ==/UserScript==
